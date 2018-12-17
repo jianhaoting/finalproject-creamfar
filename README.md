@@ -1,48 +1,45 @@
-# Final Project Presentation
+# < Title of your final project >
 
-### Send me your presentation by Jan. 15
-* Email: chang.jiaming@gmail.com
-* Title: 1071 Data Science final presentation <yourID>
-* File: 1071_datascience_FP_<yourID>.ppt/pptx/pdf
+### Groups
+* < name, student ID1 >
+* < name, student ID2 >
+* < name, student ID3 >
 
-### Submit your repository to GitHub classroom
+### Goal
+A breif introduction about your project, i.e., what is your goal?
 
-## Content
+### demo 
+You should provide an example commend to reproduce your result
+```R
+Rscript code/your_script.R --input data/training --output results/performance.tsv
+```
+* any on-line visualization
 
-* Prepare a presentation covering：
-  * Input
-  * Modeling
-  * Your goal/output
-  * Demo
+## Folder organization and its related information
 
-### Input
+### docs
+* Your presentation, 1071_datascience_FP_<yourID|groupName>.ppt/pptx/pdf, by **Jan. 15**
+* Any related document for the final project
+  * papers
+  * software user guide
 
-* Data source
+### data
+
+* Source
 * Input format
 * Any preprocessing?
   * Handle missing data
   * Scale value
 
-### Modeling
+### code
 
 * Which method do you use?
 * What is a null model for comparison?
 * How do your perform evaluation? ie. Cross-validation, or extra separated data
-* Is your improvement significant?
 
-### Output
+### results
 
-* How about performance? 
+* Which metric do you use 
   * precision, recall, R-square
-* Demo
-  * On-line visualization
-  * How to reproduce your result?
-  * What is the challenge part of your project?
-
-## Grading
-
-* 25%
-* Presentation
-  * Content
-  * Oral communication
-* Code @ GitHub
+* Is your improvement significant?
+* What is the challenge part of your project?
