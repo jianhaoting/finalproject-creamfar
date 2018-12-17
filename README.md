@@ -1,8 +1,15 @@
 # Final Project Presentation
 
+### Send me your presentation by Jan. 15
+* Email: chang.jiaming@gmail.com
+* Title: 1071 Data Science final presentation <yourID>
+* File: 1071_datascience_FP_<yourID>.ppt/pptx/pdf
+
+### Submit your repository to GitHub classroom
+
 ## Content
 
-* Prepare a presentation covering
+* Prepare a presentation covering：
   * Input
   * Modeling
   * Your goal/output
@@ -32,18 +39,10 @@
   * How to reproduce your result?
   * What is the challenge part of your project?
 
-### Grading
+## Grading
 
 * 25%
 * Presentation
   * Content
   * Oral communication
 * Code @ GitHub
-
-## Submission
-
-* Send me your presentation by Jan. 15
-  * Email: chang.jiaming@gmail.com
-  * Title: 1071 Data Science final presentation <yourID>
-  * File: 1071_datascience_FP_<yourID>.ppt/pptx/pdf
-* Submit your repository to GitHub classroom
