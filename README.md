@@ -1,13 +1,13 @@
-# < Title of your final project >
+# < Stay-in-NBA Prediction >
 
 ### Groups
-* < name, student ID1 >
-* < name, student ID2 >
-* < name, student ID3 >
+* < 簡豪廷, 107753026 >
+* < 江承憲, 107753030 >
+* < 陳遠, 107753040 >
 
 ### Goal
 A breif introduction about your project, i.e., what is your goal?
-
+Use NBA player stats to predict if a player can stay in NBA in the next year.
 ### demo 
 You should provide an example commend to reproduce your result
 ```R
