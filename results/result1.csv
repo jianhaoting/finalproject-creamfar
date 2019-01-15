@@ -1,0 +1,2 @@
+TN,FN,FP,TP,Accuracy,Sensitivity,Specificity,Precision,Recall,F1
+66,164,26,339,0.6807,0.7174,0.674,0.287,0.7174,0.4099
